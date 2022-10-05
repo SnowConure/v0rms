@@ -1,6 +1,6 @@
 # V0rms
-# A game project assignment by
-# Simon Wikström
+A game project assignment by  
+Simon Wikström  
 
 #### Controlls:
  • WASD - Move  
