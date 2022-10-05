@@ -11,14 +11,14 @@
  • Press space bar after win screen to return to menu
 
 #### Features:
- • 2-4 players <br />
- • Controll 3 characters per player <br />
- • Move timer. you have 2 seconds total to walk around. <br />
- • 2 different levels. <br />
- • Battle Royale like Storm <br />
- • 5 Different pickups randomly spawning.<br />
-   (extra health, movement speed, jump height and an extra powerful sniper rifle) <br />
-*and more!!* <br />
+ • 2-4 players.  
+ • Controll 3 characters per player.  
+ • Move timer. you have 2 seconds total to walk around.  
+ • 2 different levels.  
+ • Battle Royale like Storm.  
+ • 5 Different pickups randomly spawning.  
+   (extra health, movement speed, jump height and an extra powerful sniper rifle)  
+*and more!!*  
 
 there are some bugs and questionable design desitions, but with the time we where given im pretty happy how it turned out.
 I'm going for a VG grade and hopefully I've met the criterias.
