@@ -2,6 +2,8 @@
 #### A game project assignment by  
 #### Simon Wikström  
 
+Open the MainMenu Scene to start playing
+
 #### Controlls:
  • WASD - Move  
  • Spacebar - Jump  
