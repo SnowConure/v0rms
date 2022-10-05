@@ -3,12 +3,12 @@
 ## Simon Wikström
 
 #### Controlls:
- • WASD - Move
- • Spacebar - Jump
- • Left Click - Aim
- • Right Click - Shoot (need to aim)
- • Click on button in down left corner to end turn
- • Press space bar after win screen to return to menu
+ • WASD - Move  
+ • Spacebar - Jump  
+ • Left Click - Aim  
+ • Right Click - Shoot (need to aim)  
+ • Click on button in down left corner to end turn  
+ • Press space bar after win screen to return to menu  
 
 #### Features:
  • 2-4 players.  
